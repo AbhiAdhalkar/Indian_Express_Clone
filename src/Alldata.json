@@ -1,0 +1,823 @@
+{
+    "Links": [
+      { "title": "Home", "url": "/" },
+      { "title": "ePaper", "url": "/ePaper" },
+      { "title": "MyExpress", "url": "/MyExpress" },
+      { "title": "UPSC", "url": "/UPSC" },
+      { "title": "India", "url": "/India" },
+      { "title": "Explained", "url": "/Explained" },
+      { "title": "Opinion", "url": "/Opinion" },
+      { "title": "Politics", "url": "/Politics" },
+      { "title": "Business", "url": "/Business"},
+      { "title": "Entertainment", "url":"/Entertainment"},
+      { "title": "Sports", "url":"/Sports"},
+      { "title": "Pune", "url":"/Pune"},
+      { "title": "Lifestyle", "url":"/Lifestyle"},
+      { "title": "Tech", "url":"/Tech"},
+      { "title": "Education", "url":"/Education"},
+      { "title": "Research", "url":"/Research"},
+      { "title": "Videos", "url":"/Videos"}
+    ],
+
+    "Newsec1":[
+      {
+        "id":1,
+        "title":"LIVE: Voting underway in final phase of J&K elections; 28.12% turnout till 11 am ",
+        "img":"//images.indianexpress.com/2024/10/loksabha-2024-10-01T104000.801.jpg?w=430",
+        "link":"https://indianexpress.com/article/india/jammu-and-kashmir-assembly-elections-2024-live-updates-phase3-final-voting-9597188/?ref=hometop_hp",
+        "desc":"With 40 seats going to polls, this is the largest phase; it is also the only one where the bulk of the seats are in the Jammu division."
+      }
+    ],
+    "Newsec2":[
+      {
+        "id":1,
+        "title":"Govinda hospitalised after shooting himself in the leg with own revolver, wife Sunita confirms he’s fine",
+        "link":"https://indianexpress.com/article/entertainment/bollywood/govinda-hospitalised-after-shooting-himself-in-the-leg-with-own-revolver-report-9597331/?ref=hometop_hp"
+      },
+      {
+        "id":2,
+        "title":"When SC cleared way for teen's IIT seat, it had a happy precedent: Prince, now in his 4th year at IIT Bombay",
+        "link":"https://indianexpress.com/article/education/iit-seats-sc-cleared-way-4th-year-bombay-9597204/?ref=hometop_hp"
+      },
+      {
+        "id":3,
+        "title":"Siddaramaiah case: How across govts and parties, land has changed hands in Karnataka",
+        "link":"https://indianexpress.com/article/political-pulse/chief-minister-siddaramaiah-case-karnataka-muda-case-9597183/?ref=hometop_hp"
+      },
+      {
+        "id":4,
+        "title":"Bengal junior doctors resume ‘cease work’, say state govt hasn’t fulfilled its promises",
+        "link":"https://indianexpress.com/article/cities/kolkata/west-bengal-junior-doctors-resume-total-cease-work-9597260/?ref=hometop_hp"
+      },
+      {
+        "id":5,
+        "title":"India vs Bangladesh LIVE: BAN 6 down as Jadeja picks Litton Das",
+        "link":"https://indianexpress.com/article/sports/cricket/india-vs-bangladesh-live-score-2nd-test-match-day-5-ind-vs-ban-2024-latest-scorecard-updates-9596883/?ref=hometop_hp"
+      }
+    ],
+    "Newsec3":[
+      {
+        "id":1,
+        "title":"TODAY’S EPAPER",
+        "img":"https://images.indianexpress.com/2024/10/epaper-for-today.jpg",
+        "link":"https://indianexpress.com/express-plus/subscription-plan/?utm_content=redirect&utm_term=combo",
+        "btn":"Read today’s ePaper"
+      }
+    ],
+    "opinion":[
+      {
+        "id":1,
+        "title":"OPINION",
+        "name":"Dr Gufran Beig",
+        "desc":"The La Nina and North India’s pollution",
+        "link1":"https://indianexpress.com/article/opinion/columns/the-la-nina-and-north-indias-pollution-9596848/?ref=opinion_hp",
+        "link2":"https://indianexpress.com/profile/columnist/dr-gufran-beig/?ref=opinion_hp",
+        "img":"https://images.indianexpress.com/2022/11/WhatsApp-Image-2022-11-06-at-8.57.09-AM.jpeg?w=210"
+      },
+      {
+        "id":2,
+        "name":"Yogendra Yadav",
+        "desc":"Kishen Pattanayak, the last flicker of a great tradition",
+        "link1":"https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-kishen-pattanayak-the-last-flicker-of-a-great-tradition-9596881/?ref=opinion_hp",
+        "link2":"https://indianexpress.com/profile/columnist/yogendra-yadav/?ref=opinion_hp",
+        "img":"https://images.indianexpress.com/2014/08/yogendra-yadav.jpg?w=210"
+      },
+      {
+        "id":3,
+        "name":"Anju Gupta",
+        "desc":"With Nasrallah’s killing, Israel steps deeper into the war without victors",
+        "link1":"https://indianexpress.com/article/opinion/columns/with-nashrallahs-killing-israel-steps-deeper-into-the-war-without-victors-9596880/?ref=opinion_hp",
+        "link2":"https://indianexpress.com/profile/columnist/anju-gupta/?ref=opinion_hp",
+        "img":"https://images.indianexpress.com/2019/05/anju-gupta.jpg?w=210"
+      }
+    ],
+    "Express":[
+     
+      { 
+        "id":1,
+         "title":"EXPRESS VIEW",
+        "data":"How India can deal with the China Shock 2.0",
+        "img":"https://images.indianexpress.com/2024/10/express-view-1.jpg?w=640",
+        "link":"https://indianexpress.com/article/opinion/editorials/how-india-can-deal-with-the-china-shock-2-0-9598839/"
+      },
+      {
+        "id":2,
+        "data":"Atul goes to IIT",
+        "img":"https://images.indianexpress.com/2024/10/express-view-1.jpg?w=640",
+        "link":"https://indianexpress.com/article/opinion/columns/atul-goes-to-iit-9598897/"
+      },
+      {
+        "id":3,
+        "data":"The Third Edit: Dame Maggie Smith, the millennial superstar",
+        "img":"https://images.indianexpress.com/2024/10/express-view-1.jpg?w=640",
+        "link":"https://indianexpress.com/article/opinion/editorials/the-third-edit-dame-maggie-smith-the-millennial-superstar-9598898/"
+      }
+    ],
+    "slider1":[
+      {
+        "title":"BEST OF PREMIUM",
+        "sbtn":"Start your Express Premium now",
+        "link":"https://indianexpress.com/subscribe/all-access/?ref=premium_hp"
+      }
+    ],
+    "mslider":[
+      {
+        "id":1,
+        "img":"//images.indianexpress.com/2024/10/IIT-dhanbad.jpeg?w=204",
+        "caption":"When SC cleared way for teen's IIT seat, it had a happy precedent",
+        "link":"https://indianexpress.com/article/education/iit-seats-sc-cleared-way-4th-year-bombay-9597204/?ref=premium_hp"
+      },
+      {
+        "id":2,
+        "img":"//images.indianexpress.com/2024/10/Left-to-right-2024-10-01T073525.785.jpg?w=204",
+        "caption":"Siddaramaiah case: How across govts land has changed hands in K'taka",
+        "link":"https://indianexpress.com/article/political-pulse/chief-minister-siddaramaiah-case-karnataka-muda-case-9597183/?ref=premium_hp"
+      },
+      {
+        "id":3,
+        "img":"//images.indianexpress.com/2024/10/Untitled-design-6.jpg?w=204",
+        "caption":"Haryana: An electoral history",
+        "link":"https://indianexpress.com/article/explained/explained-politics/haryana-an-electoral-history-9597056/?ref=premium_hp"
+      },
+      {
+        "id":4,
+        "img":"//images.indianexpress.com/2024/10/October-1-2024-UPSC-KEY.jpg?w=204",
+        "caption":"UPSC Key | Annual Survey of Industries, Swachh Bharat Mission, and more",
+        "link":"https://indianexpress.com/article/upsc-current-affairs/upsc-key-annual-survey-of-industries-swachh-bharat-mission-and-more-9598220/?ref=premium_hp"
+      },
+      {
+        "id":5,
+        "img":"//images.indianexpress.com/2024/10/Opinion4_1st-Oct.jpg?w=204",
+        "caption":"With Nasrallah’s killing, Israel steps deeper into the war without victors",
+        "link":"https://indianexpress.com/article/opinion/columns/with-nashrallahs-killing-israel-steps-deeper-into-the-war-without-victors-9596880/?ref=premium_hp"
+      },
+      {
+        "id":6,
+        "img":"//images.indianexpress.com/2024/10/Opinion1_1st-Oct.jpg?w=204",
+        "caption":"The La Nina and North India’s pollution",
+        "link":"https://indianexpress.com/article/opinion/columns/the-la-nina-and-north-indias-pollution-9596848/?ref=premium_hp"
+      },
+      {
+        "id":7,
+        "img":"//images.indianexpress.com/2024/09/neerja.jpg?w=204",
+        "caption":"In crowded J&K poll fray, one message: Election stigma over",
+        "link":"https://indianexpress.com/article/political-pulse/jammu-kashmir-elections-message-9596532/?ref=premium_hp"
+      },
+      {
+        "id":8,
+        "img":"//images.indianexpress.com/2024/09/china-1600.jpg?w=204",
+        "caption":"Why anti-India business sentiment is growing in China",
+        "link":"https://indianexpress.com/article/explained/explained-global/why-anti-india-business-sentiment-is-growing-in-china-9596148/?ref=premium_hp"
+      },
+      {
+        "id":9,
+        "img":"//images.indianexpress.com/2024/09/loksabha-2024-09-30T132948.628.jpg?w=204",
+        "caption":"Battling anxiety attack, a Chandigarh professional learnt to say no",
+        "link":"https://indianexpress.com/article/health-wellness/workplace-stress-anxiety-attack-learn-to-say-no-9595951/?ref=premium_hp"
+      }
+    ],
+    "top_news_title":[{"title":"TOP NEWS"}],
+    "top_news":[
+      {
+        "id":1,
+        "caption":"Delhi doctor shot dead by 2 boys who came for treatment",
+        "img":"https://images.indianexpress.com/2024/10/nima-hospital-shooting.jpg?w=210",
+        "link":"https://indianexpress.com/article/cities/delhi/doctor-shot-dead-boys-treatment-hospital-9601115/?ref=newlist_hp"
+      },
+      {
+        "id":2,
+        "caption":"From political rebellions to affordability: What trams meant to Kolkata",
+        "img":"//images.indianexpress.com/2024/10/Eresearch-feature-Tram-prem.jpg?w=210",
+        "link":"https://indianexpress.com/article/research/from-political-rebellions-to-affordability-what-trams-meant-to-kolkata9601186-9601186/?ref=newlist_hp"
+      },
+      {
+        "id":3,
+        "caption":"Coldplay ticket frenzy: The rise of the anti-fan",
+        "img":"//images.indianexpress.com/2024/09/Left-to-right-2024-09-30T113723.119.jpg?w=210",
+        "link":"https://indianexpress.com/article/opinion/columns/coldplay-ticket-frenzy-the-rise-of-the-anti-fan-9601674/?ref=newlist_hp"
+      },
+      {
+        "id":4,
+        "caption":"Why cow is back on Maharashtra Cabinet table, ‘love, vote jihad’ on Dy CM Fadnavis lips",
+        "img":"//images.indianexpress.com/2024/10/Devendra-2.jpg?w=210",
+        "link":"https://indianexpress.com/article/political-pulse/love-vote-jihad-on-dy-cm-fadnavis-lips-9601121/?ref=newlist_hp"
+      },
+      {
+        "id":5,
+        "caption":"Govt approves schemes to increase farmers' income, ensure food security",
+        "img":"//images.indianexpress.com/2024/10/farmer.jpg?w=210",
+        "link":"https://indianexpress.com/article/india/govt-approves-food-security-for-farmers-with-increase-in-income-9602281/?ref=newlist_hp"
+      },
+      {
+        "id":6,
+        "caption":"Soldier’s body returns home, ends 56-yr wait for family that lost loved one to Rohtang plane crash",
+        "img":"https://images.indianexpress.com/2024/10/Untitled-design-2024-10-03T162323.763.jpg?w=210",
+        "link":"https://indianexpress.com/article/india/soldiers-body-returns-home-after-56-years-plane-crash-rohtang-9601760/?ref=newlist_hp"
+      },
+      {
+        "id":7,
+        "caption":"Elephant census, new SEBI rules, food safety laws, and more",
+        "img":"https://images.indianexpress.com/2024/10/WhatsApp-Image-2024-10-03-at-6.19.20-PM.jpeg?w=210",
+        "link":"https://indianexpress.com/article/upsc-current-affairs/upsc-key-elephant-census-new-sebi-rules-food-safety-laws-and-more-9601917/?ref=newlist_hp"
+      },
+      {
+        "id":8,
+        "caption":"How a conversation between 2 women ended in 5 murders in Maharashtra",
+        "img":"//images.indianexpress.com/2024/10/page.jpg?w=210",
+        "link":"https://indianexpress.com/article/cities/mumbai/solving-crime-maharashtra-five-murders-gadchiroli-9601456/?ref=newlist_hp"
+      },
+      {
+        "id":9,
+        "caption":"Cats, dogs and revival of nativist American nationhood in Trump-Vance narrative",
+        "img":"//images.indianexpress.com/2024/10/oped-illustration.jpg?w=210",
+        "link":"https://indianexpress.com/article/opinion/columns/in-trump-vance-narrative-cats-dogs-and-revival-of-nativist-american-nationhood-9600741/?ref=newlist_hp"
+      },
+      {
+        "id":10,
+        "caption":"Why psychedelics hold promise for treating anxiety, depression",
+        "img":"//images.indianexpress.com/2024/10/PSYCHEDELICS.jpg?w=210",
+        "link":"https://indianexpress.com/article/health-wellness/why-psychedelics-promise-treating-anxiety-depression-9600495/?ref=newlist_hp"
+      },
+      {
+        "id":11,
+        "caption":"‘With Gen AI we are reimagining search all over again’",
+        "img":"//images.indianexpress.com/2024/10/google-hema.jpg?w=210",
+        "link":"https://indianexpress.com/article/technology/tech-news-technology/hema-budaraju-interview-seeing-15-new-queries-because-of-ai-overviews-9601216/?ref=newlist_hp"
+      },
+      {
+        "id":12,
+        "caption":"Unleash Your Potential with MSI Prestige & Modern H Series – The Ultimate Tools for Every Journey",
+        "img":"//images.indianexpress.com/2024/09/harshit.jpg?w=210",
+        "link":"https://indianexpress.com/article/lifestyle/sponsored-lifestyle/unleash-your-potential-with-msi-prestige-modern-h-series-the-ultimate-tools-for-every-journey-9588862/?ref=newlist_hp"
+      },
+      {
+        "id":13,
+        "caption":"Air Arabia launches early bird promotion on 500,000 seats from INR 5,727!",
+        "img":"//images.indianexpress.com/2024/09/AirArabia_LEAD_d2ec5e.jpg?w=210",
+        "link":"https://indianexpress.com/article/business/sponsored-business/air-arabia-launches-early-bird-promotion-on-500000-seats-from-inr-5727-9595892/?ref=newlist_hp"
+      },
+      {
+        "id":14,
+        "caption":"Ulajh: Why this movie is almost unwatchable",
+        "img":"//images.indianexpress.com/2024/10/Post-credit-scenes-Ulajh-feature.jpg?w=210",
+        "link":"https://indianexpress.com/article/entertainment/bollywood/ulajh-unwatchable-janhvi-kapoor-movie-disrespects-audience-9599953/?ref=newlist_hp"
+      }
+    ],
+    "latest_news_title":[{"title":"LATEST NEWS"}],
+    "latest_news":[
+      {
+        "id":1,
+        "data":"Concrete mixer truck rams into auto; one dead, five hurt in Pune",
+        "link":"https://indianexpress.com/article/cities/pune/concrete-mixer-truck-accident-auto-one-dead-five-hurt-9602320/?ref=latestnews_hp"
+      },
+      {
+        "id":2,
+        "data":"The makings of Smriti Mandhana: From Sangli to one of the world’s best, and India’s T20 World Cup mainstay",
+        "link":"https://indianexpress.com/article/sports/cricket/smriti-mandhana-sangli-worlds-best-india-t20-world-cup-team-9602383/?ref=latestnews_hp"
+      },
+      {
+        "id":3,
+        "data":"Chopper crashes in Bavdhan, 3 killed: Aviation Ministry crash probe unit to collect components, black box from site",
+        "link":"https://indianexpress.com/article/cities/pune/chopper-crashes-bavdhan-aviation-ministry-black-box-9602371/?ref=latestnews_hp"
+      },
+      {
+        "id":4,
+        "data":"‘Govinda is doing first class, will be discharged on Friday,’ says wife Sunita Ahuja",
+        "link":"https://indianexpress.com/article/entertainment/bollywood/govinda-is-doing-first-class-will-be-discharged-on-friday-says-wife-sunita-ahuja-9602366/?ref=latestnews_hp"
+      },
+      {
+        "id":5,
+        "data":"Gujarat Congress flags slump in diamond sector hitting Surat workers, asks Centre to take steps",
+        "link":"https://indianexpress.com/article/cities/ahmedabad/gujarat-congress-flags-diamond-sector-surat-workers-centre-9602314/?ref=latestnews_hp"
+      },
+      {
+        "id":6,
+        "data":"Rubina Dilaik and Abhinav Shukla reveal twin daughters Edhaa and Jeeva’s faces on the occasion of Navratri, see photos",
+        "link":"https://indianexpress.com/article/entertainment/television/rubina-dilaik-and-abhinav-shukla-reveal-twin-daughters-edhaa-and-jeevas-faces-on-the-occasion-of-navratri-see-photos-9602312/?ref=latestnews_hp"
+      },
+      {
+        "id":7,
+        "data":"After giving Sion land, govt cancels GR allotting 3-acre plot to bank linked to BJP leader",
+        "link":"https://indianexpress.com/article/cities/mumbai/after-giving-sion-land-govt-cancels-gr-allotting-3-acre-plot-to-bank-linked-to-bjp-leader-9602359/?ref=latestnews_hp"
+      },
+      {
+        "id":8,
+        "data":"Marathi among 5 languages accorded ‘classical language’ status",
+        "link":"https://indianexpress.com/article/india/cabinet-classical-language-status-five-languages-marathi-bengali-9602341/?ref=latestnews_hp"
+      },
+      {
+        "id":9,
+        "data":"India welcomes UK-Mauritius deal on Chagos archipelago",
+        "link":"https://indianexpress.com/article/india/india-uk-mauritius-deal-chagos-archipelago-9602351/?ref=latestnews_hp"
+      },
+      {
+        "id":10,
+        "data":"7 killed, 30 injured after bus carrying wedding party plunges into ravine in Pakistan’s Balochistan",
+        "link":"https://indianexpress.com/article/pakistan/bus-crash-in-pakistan-balochistan-9602353/?ref=latestnews_hp"
+      },
+      {
+        "id":11,
+        "data":"Cloud on plans to showcase Bangladeshi products at Tripura’s proposed PM-Unity Mall",
+        "link":"https://indianexpress.com/article/india/cloud-on-plans-to-showcase-bangladeshi-products-at-tripuras-proposed-pm-unity-mall-9602347/?ref=latestnews_hp"
+      },
+      {
+        "id":12,
+        "data":"Concrete mixer truck rams into auto; one dead, five hurt in Pune",
+        "link":"https://indianexpress.com/article/cities/pune/concrete-mixer-truck-accident-auto-one-dead-five-hurt-9602320/?ref=latestnews_hp"
+      },
+      {
+        "id":13,
+        "data":"Chiranjeevi opens up about feeling ‘furious and insulted’ about treatment of South cinema, says ‘SS Rajamouli brought Indian cinema under one roof’",
+        "link":"https://indianexpress.com/article/entertainment/telugu/chiranjeevi-opens-up-about-feeling-furious-and-insulted-about-treatment-of-south-cinema-9602235/?ref=latestnews_hp"
+      },
+      {
+        "id":14,
+        "data":"Complaint to ED against Karnataka CM Siddaramaiah for ‘tampering with records, destroying evidence’ in MUDA scam case",
+        "link":"https://indianexpress.com/article/cities/bangalore/complaint-ed-karnataka-cm-siddaramaiah-tampering-with-records-destroying-evidence-muda-scam-case-9602332/?ref=latestnews_hp"
+      },
+      {
+        "id":15,
+        "data":"CBI arrests TMC youth leader Ashish Pandey in RG Kar financial irregularities case",
+        "link":"https://indianexpress.com/article/cities/kolkata/cbi-tmc-ashish-pandey-rg-kar-financial-irregularities-case-9602322/?ref=latestnews_hp"
+      },
+      {
+        "id":16,
+        "data":"Exclusive | The Rings of Power’s Markella Kavenagh, Megan Richards open up about the Prime Video series: ‘Never experienced anything like this before’",
+        "link":"https://indianexpress.com/article/entertainment/web-series/exclusive-the-rings-of-powers-markella-kavenagh-megan-richards-open-up-about-the-prime-video-series-never-experienced-anything-like-this-before-9601770/?ref=latestnews_hp"
+      }
+    ],
+    "mobile":[
+      {
+        "title":"Amid Iran-Israel conflict, a look at how their armies stack up",
+        "title_link":"https://indianexpress.com/shorts/world/amid-iran-israel-conflict-a-look-at-how-their-armies-stack-up-9602910/?ref=shorts_hp",
+        "time_title":"Lifestyle",
+        "time_desc":"28 min ago",
+        "description":"The tensions between Iran and Israel have peaked as Iran retaliates against the killing of its commanders with a massive missile attack. The Israeli Prime Minister promises to strike back, highlighting the advanced...",
+        "description_link":"https://indianexpress.com/shorts/world/amid-iran-israel-conflict-a-look-at-how-their-armies-stack-up-9602910/?ref=shorts_hp",
+        "img":"https://images.indianexpress.com/2024/10/Left-to-right-2024-10-04T114458.445.jpg?w=400",
+        "img_link":"https://indianexpress.com/shorts/world/amid-iran-israel-conflict-a-look-at-how-their-armies-stack-up-9602910/?ref=shorts_hp",
+        "mob":"https://indianexpress.com/wp-content/plugins/ie-express-shorts/assets/images/Top-shorts.svg",
+        "logo":"https://indianexpress.com/wp-content/plugins/ie-express-shorts/assets/images/short-header.svg",
+        "logo_link":"https://indianexpress.com/shorts/?ref=shorts_hp",
+        "btn":" View all shorts >",
+        "btn_link":"https://indianexpress.com/shorts/?ref=shorts_hp"
+      }
+    ],
+    "box":[
+      {
+        "title":"BUSINESS AS USUAL",
+        "title_link":"https://indianexpress.com/photos/e-p-unny-cartoons-gallery/business-as-usual-by-e-p-unny-october-2024/?ref=cartoon_hp",
+        "image":"//images.indianexpress.com/2024/10/700-cartoon-2.jpg"
+      }
+    ],
+    "footer_titles":[
+      { 
+        "title1":"TOP CATEGORIES"
+      },
+      {
+        "title2":"TRENDING NEWS"
+      },
+      {
+        "title3":"LATEST STORIES"
+      }
+    ],
+    "top_data":[
+      { 
+        "id":1,
+        "text":"Explained News",
+        "link":"https://indianexpress.com/section/explained/"
+      },
+      {
+        "id":2,
+        "text":"Political Pulse",
+        "link":"https://indianexpress.com/section/political-pulse/"
+      },
+      {
+        "id":3,
+        "text":"Latest Opinion",
+        "link":"https://indianexpress.com/section/opinion/"
+      },
+      {
+        "id":4,
+        "text":"Mumbai News",
+        "link":"https://indianexpress.com/section/cities/mumbai/"
+      },
+      {
+        "id":5,
+        "text":"Delhi News",
+        "link":"https://indianexpress.com/section/cities/delhi/"
+      },
+      {
+        "id":6,
+        "text":"Pune News",
+        "link":"https://indianexpress.com/section/cities/pune/"
+      },
+      {
+        "id":7,
+        "text":"Bangalore News",
+        "link":"https://indianexpress.com/section/cities/bangalore/"
+      },
+      { "id":8,
+        "text":"Bollywood News",
+        "link":"https://indianexpress.com/section/entertainment/bollywood/"
+      },
+      {
+        "id":9,
+        "text":"Health News",
+        "link":"https://indianexpress.com/section/lifestyle/health/"
+      },
+      {
+        "id":10,
+        "text":"India News",
+        "link":"https://indianexpress.com/section/india/"
+      },
+      {
+        "id":11,
+        "text":"Sports News",
+        "link":"https://indianexpress.com/section/sports/"
+      },
+      {
+        "id":12,
+        "text":"Lifestyle News",
+        "link":"https://indianexpress.com/section/lifestyle/"
+      },
+      {
+        "id":13,
+        "text":"Latest News",
+        "link":"https://indianexpress.com/latest-news/"
+      },
+      {
+        "id":14,
+        "text":"Cricket",
+        "link":"https://indianexpress.com/section/sports/cricket/"
+      },
+      {
+        "id":15,
+        "text":"Tech Reviews",
+        "link":"https://indianexpress.com/section/technology/tech-reviews/"
+      },
+      {
+        "id":16,
+        "text":"Gadgets",
+        "link":"Gadgets"
+      },
+      {
+        "id":17,
+        "text":"Mobile & Tabs",
+        "link":"https://indianexpress.com/section/technology/mobile-tabs/"
+      },
+      {
+        "id":18,
+        "text":"Food & Wine",
+        "link":"https://indianexpress.com/section/lifestyle/food-wine/"
+      },
+      {
+        "id":19,
+        "text":"Elections 2024",
+        "link":"https://indianexpress.com/elections/"
+      },
+      {
+        "id":20,
+        "text":"Fitness",
+        "link":"https://indianexpress.com/section/lifestyle/fitness/"
+      }
+    ],
+    "trending_data":[
+      {
+        "id":1,
+        "text":"Latest News",
+        "link":"https://indianexpress.com/"
+      },
+      {
+        "id":2,
+        "text":"Health and Wellness",
+        "link":"https://indianexpress.com/section/health-wellness/"
+      },
+      {
+        "id":3,
+        "text":"Education News",
+        "link":"https://indianexpress.com/section/education/"
+      },
+      {
+        "id":4,
+        "text":"Buy All-Access Plan",
+        "link":"https://indianexpress.com/subscribe/all-access/"
+      },
+      {
+        "id":5,
+        "text":"Entertainment News",
+        "link":"https://indianexpress.com/section/entertainment/"
+      },
+      {
+        "id":6,
+        "text":"Trending News",
+        "link":"https://indianexpress.com/section/trending/"
+      },
+      {
+        "id":7,
+        "text":"Political News",
+        "link":"https://indianexpress.com/section/political-pulse/"
+      },
+      {
+        "id":8,
+        "text":"Business News",
+        "link":"https://indianexpress.com/section/business/"
+      },
+      {
+        "id":9,
+        "text":"Why Subscribe Indian Express",
+        "link":"https://indianexpress.com/why-indian-express/"
+      },
+      {
+        "id":10,
+        "text":"Buy Digital Premium",
+        "link":"https://indianexpress.com/subscribe/premium/"
+      },
+      {
+        "id":11,
+        "text":"Subscribe To The Indian Express",
+        "link":"https://indianexpress.com/subscribe/"
+      },
+      {
+        "id":12,
+        "text":"Indian Express subscription UPSC offer",
+        "link":"https://indianexpress.com/article/what-is/indian-express-upsc-special-package-with-magazine-offers-discount-9317391/"
+      },
+      {
+        "id":13,
+        "text":"Income Tax Calculator",
+        "link":"https://indianexpress.com/income-tax-calculator/"
+      },
+      {
+        "id":14,
+        "text":"Stock Market",
+        "link":"https://www.financialexpress.com/market/stock-market-stats/"
+      },
+      {
+        "id":15,
+        "text":"Israel Iran War",
+        "link":"https://indianexpress.com/article/world/israel-iran-war-live-updates-iran-attacks-israel-9599199/"
+      },
+      {
+        "id":16,
+        "text":"IND vs BAN",
+        "link":"https://indianexpress.com/about/india-vs-bangladesh/"
+      }
+    ],
+    "latest_data":[
+      {
+        "id":1,
+        "text":"Army deployed in Islamabad amid protests by ex-Pak PM Imran Khan’s party",
+        "link":"https://indianexpress.com/article/pakistan/army-islamanad-protest-pak-pm-imran-khan-party-protest-9604805/"
+      },
+      {
+        "id":2,
+        "text":"I wore the Pebble Iris smart ring and now I know how it’s better than a smartwatch ",
+        "link":"https://indianexpress.com/article/technology/tech-reviews/pebble-iris-smart-ring-review-9604794/"
+      },
+      {
+        "id":3,
+        "text":"World Teachers’ Day 2024: Is AI doing the homework? Challenges teachers are facing",
+        "link":"https://indianexpress.com/article/education/world-teachers-day-2024-is-ai-doing-the-homework-challenges-teachers-are-facing-9601464/"
+      },
+      {
+        "id":4,
+        "text":"Magic pill to control blood sugar spikes? A new study reveals why cutting down on ultra-processed food is key",
+        "link":"https://indianexpress.com/article/health-wellness/new-study-reveals-why-cutting-down-on-ultra-processed-food-is-key-to-control-blod-sugar-spikes-9604774/"
+      },
+      {
+        "id":5,
+        "text":"Amitabh Bachchan’s constant rehearsals left Taapsee Pannu exhausted; ‘she nearly fainted in the corner’, recalls Sujoy Ghosh",
+        "link":"https://indianexpress.com/article/entertainment/bollywood/amitabh-bachchan-rehearsals-left-taapsee-pannu-exhausted-nearly-fainted-sujoy-ghosh-9604655/"
+      },
+      {
+        "id":6,
+        "text":"Apple production sees 6.39% decline in Himachal this year, fungal infection, old plantations to be blamed",
+        "link":"https://indianexpress.com/article/cities/chandigarh/apple-production-himachal-fungal-infection-old-plantations-9604770/"
+      },
+      {
+        "id":7,
+        "text":"Hawk-eyed fans spot Katrina Kaif wearing patch on the arm as she steps out for Navratri celebrations; we find out what it is",
+        "link":"https://indianexpress.com/article/lifestyle/health/internet-hawk-eyes-katrina-kaif-wearing-cgm-patch-arm-fitness-glucose-levels-benefits-tips-expert-9604659/"
+      },
+      {
+        "id":8,
+        "text":"Joker Folie à Deux box office collection day 3: Joaquin Phoenix-Lady Gaga film under-performs in India, earns Rs 7.7 crore",
+        "link":"https://indianexpress.com/article/entertainment/hollywood/joker-folie-a-deux-box-office-collection-day-3-joaquin-phoenix-lady-gaga-film-under-performs-in-india-earns-rs-7-7-crore-9604720/"
+      },
+      {
+        "id":9,
+        "text":"NCP member from Ajit Pawar faction hacked to death in Mumbai’s Byculla",
+        "link":"https://indianexpress.com/article/cities/mumbai/ncp-member-ajit-pawar-faction-killed-mumbai-byculla-9604756/"
+      },
+      {
+        "id":10,
+        "text":"IIT Tirupati scholarships for UG, PG students",
+        "link":"https://indianexpress.com/article/education/iit-tirupati-scholarships-for-ug-pg-students-jee-main-2025-advanced-9263666/"
+      },
+      {
+        "id":11,
+        "text":"Video of Canadian landlord evicting Indian tenant goes viral; internet demands ‘proper information’",
+        "link":"https://indianexpress.com/article/trending/trending-in-india/video-of-canadian-landlord-evicting-indian-tenant-goes-viral-9604747/"
+      },
+      {
+        "id":12,
+        "text":"Travelling behind the curve: Despite the outbound rush, why India’s foreign tourist arrivals are yet to touch pre-Covid levels",
+        "link":"https://indianexpress.com/article/business/aviation/why-indias-foreign-tourist-arrivals-are-yet-to-touch-pre-covid-levels-9604675/"
+      },
+      {
+        "id":13,
+        "text":"How close were past exit polls in Haryana and J&K?",
+        "link":"https://indianexpress.com/article/political-pulse/exit-polls-haryana-jammu-kashmir-9604703/"
+      },
+      {
+        "id":14,
+        "text":"Why author Sandip Roy thinks Mithun Chakraborty has got the moves",
+        "link":"https://indianexpress.com/article/express-sunday-eye/author-sandip-roy-mithun-chakraborty-disco-dancer-moves-9604043/"
+      },
+      {
+        "id":15,
+        "text":"Durga Idols getting smaller each year due to rising costs & focus on theme, say Kumartuli artisans",
+        "link":"https://indianexpress.com/article/cities/kolkata/durga-idols-getting-smaller-each-year-due-to-rising-costs-9604711/"
+      },
+      {
+        "id":16,
+        "text":"Mumbai News Live Updates: PM Modi to inaugurate Mumbai Metro Line 3 between BKC and Aarey today",
+        "link":"https://indianexpress.com/article/cities/mumbai/mumbai-news-live-updates-pm-modi-metro-9604651/"
+      }
+    ],
+    "follow":[
+      {
+        "title1":"FOLLOW US",
+        "title2":"DOWNLOAD APPS",
+        "facebook":"https://indianexpress.com/wp-content/themes/indianexpress/images/icons/icon-facebook.svg",
+        "facebook_link":"https://www.facebook.com/indianexpress",
+        "twitter":"https://indianexpress.com/wp-content/themes/indianexpress/images/icons/x-footer.svg",
+        "twitter_link":"https://x.com/indianexpress",
+        "linkedin":"https://indianexpress.com/wp-content/themes/indianexpress/images/icons/icon-linkedin.svg",
+        "linkedin_link":"https://www.linkedin.com/company/indian-express/",
+        "instagram":"https://indianexpress.com/wp-content/themes/indianexpress/images/icons/icon-instagram.svg",
+        "instagram_link":"https://www.instagram.com/indianexpress/",
+        "android":"https://indianexpress.com/wp-content/themes/indianexpress/images/icons/icon-android.svg",
+        "android_link":"https://play.google.com/store/apps/details?id=com.indianexpress.android&hl=en&pli=1",
+        "apple":"https://indianexpress.com/wp-content/themes/indianexpress/images/icons/icon-apple.svg",
+        "apple_link":"https://apps.apple.com/us/app/indian-express-news-epaper/id506351833",
+        "newsguard":"https://indianexpress.com/wp-content/themes/indianexpress/images/newsguard-logo-w.svg",
+        "newsguard_text":"The Indian Express website has been rated GREEN for its credibility and trustworthiness by Newsguard, a global service that rates news sources for their journalistic standards."
+      }
+    ],
+    "express1":[
+      {
+        "title":"EXPRESS GROUP"
+      }
+    ],
+    "express_data":[
+      {
+        "id":1,
+        "text":"The Indian Express",
+        "link":"https://indianexpress.com/"
+      },
+      {
+        "id":2,
+        "text":"ieTamil.com",
+        "link":"https://tamil.indianexpress.com/"
+      },
+      {
+        "id":3,
+        "text":"The Financial Express",
+        "link":"https://www.financialexpress.com/"
+      },
+      {
+        "id":4,
+        "text":"ieBangla.com",
+        "link":"https://bengali.indianexpress.com/"
+      },
+      {
+        "id":5,
+        "text":"Loksatta",
+        "link":"https://www.loksatta.com/"
+      },
+      {
+        "id":6,
+        "text":"ieMalayalam.com",
+        "link":"https://malayalam.indianexpress.com/"
+      },
+      {
+        "id":7,
+        "text":"Jansatta",
+        "link":"https://www.jansatta.com/"
+      },
+      {
+        "id":8,
+        "text":"ieGujarati.com",
+        "link":"https://gujarati.indianexpress.com/"
+      },
+      {
+        "id":9,
+        "text":"inUth",
+        "link":"https://www.inuth.com/"
+      },
+      {
+        "id":10,
+        "text":"IE Education",
+        "link":"https://education.indianexpress.com/"
+      },
+      {
+        "id":11,
+        "text":"The ExpressGroup",
+        "link":"https://expressgroup.indianexpress.com/"
+      },
+      {
+        "id":12,
+        "text":"MyInsuranceClub",
+        "link":"https://www.myinsuranceclub.com/"
+      },
+      {
+        "id":13,
+        "text":"Newsletters",
+        "link":"https://indianexpress.com/newsletters/"
+      },
+      {
+        "id":14,
+        "text":"26/11 Stories of Strength",
+        "link":"https://indianexpress.com/26-11/"
+      },
+      {
+        "id":15,
+        "text":"Ramnath Goenka Excellence in Journalism Awards",
+        "link":"https://rngfoundation.com/awards/"
+      },
+      {
+        "id":16,
+        "text":"Online Classes for Kids",
+        "link":"https://eureka.indianexpress.com/"
+      },
+      {
+        "id":17,
+        "text":"Light House Journalism",
+        "link":"https://www.lighthousejournalism.com/"
+      },
+      {
+        "id":18,
+        "text":"Compare Term Insurance",
+        "link":"https://www.myinsuranceclub.com/life-insurance/term-insurance"
+      }
+    ],
+    "quick_data":[
+      {
+        "id":1,
+        "text":"T&C",
+        "link":"https://indianexpress.com/terms-and-conditions/"
+      },
+      {
+        "id":2,
+        "text":"Privacy Policy",
+        "link":"https://indianexpress.com/privacy-policy/"
+      },
+      {
+        "id":3,
+        "text":"Advertise with Us",
+        "link":"https://expressgroup.indianexpress.com/advertise.html"
+      },
+      {
+        "id":4,
+        "text":"Brand Solutions",
+        "link":"https://indianexpress.com/brand-solutions/"
+      },
+      {
+        "id":5,
+        "text":"Contact Us",
+        "link":"https://indianexpress.com/contact-us/"
+      },
+      {
+        "id":6,
+        "text":"Subscribe",
+        "link":"https://subscribe.indianexpress.com/"
+      },
+      {
+        "id":7,
+        "text":"Statutory provisions on reporting (sexual offenses)",
+        "link":"https://indianexpress.com/article/what-is/what-is-the-protection-of-children-from-sexual-offences-act-2012/"
+      },
+      {
+        "id":8,
+        "text":"This website follows the DNPA’s code of conduct",
+        "link":"https://indianexpress.com/article/india/code-of-ethics-for-digital-news-websites-6758543/"
+      },
+      {
+        "id":9,
+        "text":"CSR",
+        "link":"https://expressgroup.indianexpress.com/corporate-social-responsibility.html"
+      }
+    ],
+    "copyright":[
+      {
+        "text":"Copyright © 2024 The Indian Express [P] Ltd. All Rights Reserved",
+        "img":"https://indianexpress.com/wp-content/themes/indianexpress/images/vip-powered-logo.png",
+        "link":"https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=indianexpress.com"
+      }
+    ]
+  }
+  
+
+  

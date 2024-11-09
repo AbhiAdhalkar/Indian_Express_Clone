@@ -1,0 +1,163 @@
+.f1 {
+    margin-top: 800px;
+    height: 1507px;
+    background-color: #01040D;
+    color: white;
+}
+
+.footer {
+    background-color: #01040D;
+    color: white;
+}
+
+.footer th {
+    position: relative;
+    text-align: left;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.footer th::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 0.5px;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translateY(100%);
+}
+
+.footer .table {
+    table-layout: fixed;
+    width: 100%; 
+}
+
+.footer td, .footer th {
+    width: 25%; 
+    text-align: left;
+}
+
+.table_link {
+    text-decoration: none;
+    color: white;
+    position: relative;
+    padding-left: 25px;
+    display: flex;
+    align-items: center;
+}
+
+
+.table_link::before {
+    content: "•";
+    color: #595959;
+    font-size: 40px;
+    position: absolute;
+    left: 0;
+    top: 10px;
+    transform: translateY(-50%);
+}
+
+.footer table, .footer th, .footer td {
+    border: none;
+    background-color: #01040D;
+    color: white;
+}
+
+.footer tbody tr {
+    border: none;
+}
+
+.footer td {
+    border-bottom: none;
+}
+
+.footer * {
+    background-color: #01040D !important;
+    color: white !important;
+}
+.follow1{
+    height: 365px;
+    width: 300px;
+    border-right: 0.5px solid white;
+    font-family: "Roboto, sans-serif",sans-serif;
+    font-size: 16px;
+}
+.follow1 table thead th {
+    border-bottom: none !important; /* Remove border-bottom for thead */
+    padding-bottom: 10px; /* Optional: Add padding to create space below the header */
+}
+.text{
+    font-weight: bolder;
+}
+.f2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 1px dashed white; */
+    height:50px;
+    padding-right: 60px;
+    width: 100%;
+    /* padding: 20px; */
+}
+.m1{
+    height: 35px;
+    margin: 0 -10px;
+}
+.f3{
+    display: flex;
+    justify-content:start;
+    align-items: center;
+    /* border: 1px dashed white; */
+    height:50px;
+    padding-right: 100px;
+    width: 100%;
+}
+.m2{
+    height: 35px;
+    margin: 0 7px;
+}
+.line_hor{
+    margin-top: 0px;
+    color: white;
+}
+.ng1{
+    height: 20px;
+    margin-top: -20px;
+    color: #595959;
+}
+.newsguard{
+    margin-top: -5px;
+}
+.express_link {
+    text-decoration: none;
+    color: white;
+    position: relative;
+    padding-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+.quick{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+    display: block; 
+}
+.copy1{
+    /* border: 1px dashed white; */
+}
+.copy2{
+    
+    /* border: 1px dashed white; */
+}
+.last_img{
+   height: 30px;
+   padding-left: 40%;
+   color: white;
+}
+.last_text{
+    font-size: 15px
+}
